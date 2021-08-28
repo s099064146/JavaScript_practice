@@ -4,7 +4,7 @@
   "description": "JavaScript starter code",
   "main": "script.js",
   "scripts": {
-    "test": "lite-server"
+    "start": "lite-server"
   },
   "keywords": [],
   "author": "bonta",
